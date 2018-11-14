@@ -1,4 +1,4 @@
-# onewireweather
+# 1-wire Weather
 1-wire nRF & ESP weather network with sender, receiver, web upload and sending & uploading display unit.
 
 The display in use, showing live graph from sauna:<br/>
